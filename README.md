@@ -9,30 +9,32 @@
 
 # SETTING UP
 
-[Clion Ide, feel free to use whatever you're comfortable with.] (https://www.jetbrains.com/clion/)
+[Clion Ide, feel free to use whatever you're comfortable with.](https://www.jetbrains.com/clion/)
 
-[Sprint/Task board] (https://kanbanflow.com/board/d7b30b8e86d513caf774822dc96e9d70)
+[Linux](http://releases.ubuntu.com/14.04/)
 
-[Git] (https://git-scm.com/)
+[Sprint/Task board](https://kanbanflow.com/board/d7b30b8e86d513caf774822dc96e9d70)
+
+[Git](https://git-scm.com)
+
+[Slack](https://cpp-self-driving.slack.com)
 
 # CODING STANDARDS
 
-[C++ Coding Standards] (https://google.github.io/styleguide/cppguide.html)
+[C++ Coding Standards](https://google.github.io/styleguide/cppguide.html)
 
-[Commit early and often! Keep them small!] (http://sethrobertson.github.io/GitBestPractices/#commit)
+[Commit early and often! Keep them small!](http://sethrobertson.github.io/GitBestPractices/#commit)
 
-[Writing good commit messages!] (http://chris.beams.io/posts/git-commit/)
+[Writing good commit messages!](http://chris.beams.io/posts/git-commit/)
 
-[Pull request Tutorials] (https://yangsu.github.io/pull-request-tutorial/)
+[Pull request Tutorials](https://yangsu.github.io/pull-request-tutorial/)
 
-[Good example of design] (https://github.com/cpp-css/cpp-parking-design-doc)
+[Good example of design](https://github.com/cpp-css/cpp-parking-design-doc)
 
 # SOFTWARE DEVELOPMENT
 
-[Simulation] (http://wiki.ros.org/husky_gazebo)
+[Simulation](http://wiki.ros.org/husky_gazebo)
 
-[Why unit testing is important] (https://www.quora.com/What-is-software-unit-testing-and-why-is-it-important)
+[Why unit testing is important](https://www.quora.com/What-is-software-unit-testing-and-why-is-it-important)
 
-[Integration Tests] (https://en.wikipedia.org/wiki/Integration_testing)
-
-[Continuous Deployment/Integration] ()
+[Integration Tests](https://en.wikipedia.org/wiki/Integration_testing)
